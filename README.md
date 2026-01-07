@@ -46,8 +46,10 @@ flutter pub get
 
 3. Firebase setup:
 - Create a Firebase project and enable Firestore + Authentication.
-- Add `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) to the corresponding platform folders.
+- Add `google-services.json` (Android) and `GoogleService-Info.plist` (iOS) to the corresponding platform folders
+- Configure Firebase for Flutter  and add firebase_options.dart 
 - The Android build script already applies `com.google.gms.google-services` in `android/app/build.gradle.kts`.
+  
 
 4. Create a `.env` file at the project root with your Gemini API key:
 
@@ -123,11 +125,6 @@ Open `pubspec.yaml` for exact versions. Key packages:
 - file_picker
 - flutter_markdown
 
-## Future Improvements
-- Better parsing and validation for Gemini outputs.
-- Offline-first sync and caching for histories.
-- Export/import flashcards (Anki/CSV) and bulk-edit tools.
-- User profiles, settings, and multi-device sync.
 
 ## Author
 Shaji Ul Islam Qamar
