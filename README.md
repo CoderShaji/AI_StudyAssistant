@@ -23,19 +23,24 @@ AI Study Assistant is a cross-platform Flutter application that helps students c
 
 ## Screenshots
 Add images to the `images/` folder and update paths below.
+![Splash Screen](images/Screenshot%202025-10-27%20184442.png)
 
-![Home Screen](images/home.png)
+![Login Screen](images/Screenshot%202025-10-27%20184753.png)
 
-![AI History](images/ai_history.png)
+![Home Screen](images/Screenshot%20(135).png)
 
-![Chat](images/chat.png)
+![Flashcard History of a Subject](images/subject_flashcard_history.png)
 
+![FlashCard Creation Screen](images/Screenshot%20(138).png)
+
+![FlashCard Screen](images/Screenshot%20(140).png)
+
+![Chat](images/Screenshot%20(141).png)
 ## Installation
 1. Install the Flutter SDK: https://flutter.dev/docs/get-started/install
 2. Clone the repository and fetch dependencies:
 
-```powershell
-cd "d:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant"
+```
 flutter pub get
 ```
 
