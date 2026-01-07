@@ -1,0 +1,7 @@
+com.example.app-pngs-0 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\build\generated\res\pngs\release
+com.example.app-resValues-1 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\build\generated\res\resValues\release
+com.example.app-packageReleaseResources-2 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\build\intermediates\incremental\release\packageReleaseResources\merged.dir
+com.example.app-packageReleaseResources-3 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\build\intermediates\incremental\release\packageReleaseResources\stripped.dir
+com.example.app-release-4 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\build\intermediates\merged_res\release\mergeReleaseResources
+com.example.app-main-5 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\src\main\res
+com.example.app-release-6 D:\University\6th Semester\App Development\AI Study Assistant\aistudyassistant\android\src\release\res
